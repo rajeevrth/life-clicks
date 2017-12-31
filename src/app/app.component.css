@@ -2,7 +2,7 @@
 
 Urbanic Template 
 
-http://www.templatemo.com/tm-395-urbanic
+http://www.life-clicks.com/tm-395-urbanic
 
 */
 
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
           border-radius: 0 !important;
 }
 
-.templatemo_clear {
+.life-clicks_clear {
 	clear: both;
 }
 
@@ -35,30 +35,30 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 	height: 30px;
 }
 
-.templatemo-top-bar {
+.life-clicks-top-bar {
     min-height: 40px;
     background-color:#eeeeee;
 }
 
-.templatemo-top-menu {
+.life-clicks-top-menu {
     min-height:110px;
     background-color:#ffffff;
     z-index: 5000;
     width:100%;
 }
 
-.templatemo-top-menu .navbar-toggle {
+.life-clicks-top-menu .navbar-toggle {
     margin-top: 38px;
 }
 
-.templatemo-top-menu .navbar-brand {
+.life-clicks-top-menu .navbar-brand {
     padding: 0;
     margin: 10px 0 0 0;
 }
 
 /* ------ Carousel ----- */
 
-#templatemo-carousel {
+#life-clicks-carousel {
      background: no-repeat center center fixed;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -69,14 +69,14 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     height: 500px;
 }
 
-#templatemo-carousel .carousel-caption {
+#life-clicks-carousel .carousel-caption {
     z-index: 10;
 }
 
-#templatemo-carousel .item {
+#life-clicks-carousel .item {
     height: 500px;
 }
-#templatemo-carousel .carousel-inner > .item > img {
+#life-clicks-carousel .carousel-inner > .item > img {
     position: absolute;
     min-width: 100%;
     height: 500px;
@@ -85,13 +85,13 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 }
 
 @media (min-width: 768px) {
-    #templatemo-carousel .carousel-caption p {
+    #life-clicks-carousel .carousel-caption p {
         margin-bottom: 20px;
         line-height: 1.4;
         font-size: 21px;
     }
 
-    #templatemo-carousel .carousel-caption {
+    #life-clicks-carousel .carousel-caption {
         padding-bottom: 140px;
         right: 20%;
         left: 20%;
@@ -99,14 +99,14 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 }
 
 @media (max-width: 768px) {
-    #templatemo-carousel .carousel-caption {
+    #life-clicks-carousel .carousel-caption {
         padding-bottom: 120px;
     }
 }
 
 @media (max-width: 1024px) {
-    #templatemo-carousel {
-        background: url('../assets/images/templatemo_carousel_bg_s.jpg') no-repeat center center; 
+    #life-clicks-carousel {
+        background: url('../assets/images/life-clicks_carousel_bg_s.jpg') no-repeat center center; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -120,12 +120,12 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 /* ------ End of Carousel ----- */
 
 /* ------ Welcome & Slogna ------ */
-.templatemo-welcome {
+.life-clicks-welcome {
     border-bottom: 1px solid #cccccc;
     min-height: 230px;
 }
 
-.templatemo-slogan {
+.life-clicks-slogan {
     font-family:  'Open Sans', sans-serif;
     font-weight: normal;
     font-size: 42px;
@@ -133,19 +133,19 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     color: #333333;
 }
 
-.templatemo-service {
+.life-clicks-service {
     margin-bottom: 100px;
     margin-top: 100px;
 }
 
-.templatemo-service-item {
+.life-clicks-service-item {
     font-family:  'Open Sans', sans-serif;
     margin-bottom: 10px;
     font-size: 20px;
 }
 
 
-.templatemo-service-item p {
+.life-clicks-service-item p {
     font-weight: lighter; 
     text-align: justify; 
     margin-top: 25px;
@@ -226,14 +226,14 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     margin-bottom: 0px;
 }
 
-.templatemo-service-item-header {
+.life-clicks-service-item-header {
     margin-left: -10px; 
     padding: 16px 20px 20px; 
     font-weight: bold;
     display: inline-block;
 }
 
-.templatemo-header-orange {
+.life-clicks-header-orange {
     background-color:#ff7600;
     min-width: 298px;
     height: 67px;
@@ -260,14 +260,14 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     border: 1px solid #cccccc; 
 }
 
-.templatemo-team {
+.life-clicks-team {
     background: url('../assets/images/background.png') ; 
     font-family:  'Open Sans', sans-serif;
     min-height:590px;
     color:#ffffff;
 
 }
-.templatemo-line-header {
+.life-clicks-line-header {
     margin-top:100px;
     margin-bottom:80px;
 }
@@ -327,7 +327,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     list-style: none;
 }
 
-.templatemo-project-box {
+.life-clicks-project-box {
     background-size: cover;
     position: relative;
     overflow: hidden;
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     width: 200px;
 }
 
-.templatemo-project-box:hover .project-overlay {
+.life-clicks-project-box:hover .project-overlay {
     transition: all 0.3s ease-in-out 0s;
     visibility: visible;
     opacity: 1;
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 	
 }
 
-.templatemo-project-gallery li {
+.life-clicks-project-gallery li {
     margin:15px;
 }
 
@@ -380,7 +380,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     color:#929292;
 } */
 
-.templatemo-line-header span {
+.life-clicks-line-header span {
     font-size: 18px; 
     float :left; 
     margin-top: 10px;
@@ -411,12 +411,12 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     margin-top: 20px;
 }
 
-#templatemo-contact {
+#life-clicks-contact {
 	margin-top:100px; 
 	border-top: 1px solid #cccccc; 
 	font-size:14px;
 }
-.templatemo-contact-map {
+.life-clicks-contact-map {
     margin-bottom: 15px;
     height: 378px;
 
@@ -447,15 +447,15 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 	float: right;
 }
 
-.templatemo-partners {
+.life-clicks-partners {
 	border-top: 2px solid #cccccc;
 }
 
-.templatemo-partners .templatemo-partner-item {
+.life-clicks-partners .life-clicks-partner-item {
     margin-bottom: 5px;
 }
 
-.templatemo-footer {
+.life-clicks-footer {
 	border-top: 2px solid #cccccc; 
 	margin-top: 100px;
 }
@@ -527,25 +527,25 @@ a:hover .social-icon-dribbble {
     background: url('../assets/images/social-icon-dribbble-over.png') no-repeat;
 }
 
-ul.templatemo-project-gallery  li  a img:hover {
+ul.life-clicks-project-gallery  li  a img:hover {
     border: 3px solid #ff7600;
 }
 
-.templatemo-gallery-category a {
+.life-clicks-gallery-category a {
 	color:#333333; 
 }
 
-.templatemo-gallery-category a.active {
+.life-clicks-gallery-category a.active {
 	color:#e67e22; 
 	text-decoration:none;
 }
 
-.templatemo-gallery-category a:focus {
+.life-clicks-gallery-category a:focus {
 	color:#e67e22;
 	text-decoration:none;	
 }
 
-.templatemo-gallery-category a:hover {
+.life-clicks-gallery-category a:hover {
 	color:#e67e22; 
 	text-decoration:none;
 }
@@ -553,20 +553,20 @@ ul.templatemo-project-gallery  li  a img:hover {
 .link_orange:hover {
     text-decoration:none;
 }
-.templatemo-project-gallery {         
+.life-clicks-project-gallery {         
     margin:0 0 0 0;
     margin-top:30px;
     margin-left: -40px;
 }
-.templatemo-project-gallery li {     
+.life-clicks-project-gallery li {     
     list-style:none;
     margin-bottom:25px;           
 }
-.templatemo-project-gallery li img {
+.life-clicks-project-gallery li img {
   cursor: pointer;
 }
 
-.templatemo-tweets {
+.life-clicks-tweets {
     background-color: #8996a0;
     min-height:200px;
     font-family:  'Open Sans', sans-serif;
@@ -595,20 +595,20 @@ ul.templatemo-project-gallery  li  a img:hover {
 }
 
 @media (min-width:991px) and (max-width:1200px) {
-    .templatemo-project-box, .project-overlay {
+    .life-clicks-project-box, .project-overlay {
         height:170px;
         width:170px;
     }
 
-    .templatemo-project-gallery {
+    .life-clicks-project-gallery {
         margin-left: -70px;
     }
 
-    .templatemo-service-item-header {
+    .life-clicks-service-item-header {
         padding: 16px 10px 20px;
     }
 
-    .templatemo-header-orange {
+    .life-clicks-header-orange {
         min-width: 230px;
     }
 
@@ -626,7 +626,7 @@ ul.templatemo-project-gallery  li  a img:hover {
         margin-bottom: 20px;
     }
 	
-    .templatemo-btn-read-more {
+    .life-clicks-btn-read-more {
         float:right;
         margin-bottom :40px; 
     }
@@ -637,13 +637,13 @@ ul.templatemo-project-gallery  li  a img:hover {
     .member-thumb .thumb-overlay {
         padding-left: 30%;
     }
-    .templatemo-project-box , .project-overlay {
+    .life-clicks-project-box , .project-overlay {
        height:130px;
        width:130px;
        padding-top: 0px;
     }
 
-    .templatemo-project-gallery {
+    .life-clicks-project-gallery {
        margin-left: 10px; 
     }
 
@@ -665,7 +665,7 @@ ul.templatemo-project-gallery  li  a img:hover {
         padding-left: 40%;
        
     }
-    .templatemo-btn-read-more {
+    .life-clicks-btn-read-more {
             float:right;
             margin-bottom :40px; 
       }
@@ -676,12 +676,12 @@ ul.templatemo-project-gallery  li  a img:hover {
             padding-left: 30%;
 
     }
-	.templatemo-service-item-header {
+	.life-clicks-service-item-header {
 		font-size: 16px;
 		
 		padding: 23px 10px 22px;
 	}
-	.templatemo-header-orange {
+	.life-clicks-header-orange {
 		min-width: 0px;
 	}
 	
@@ -734,4 +734,7 @@ ul.templatemo-project-gallery  li  a img:hover {
 }
 .text-center-services{
     float:right;
+}
+.alignCenter{
+    text-align: center;
 }
